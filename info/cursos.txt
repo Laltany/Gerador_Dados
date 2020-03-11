@@ -1,0 +1,6 @@
+Ciencia da Computacao
+Engenharia de Software
+Engenharia Civil
+Engenharia Mecanica
+Engenharia Eletrica
+Engenharia de Telecomunicacoes
